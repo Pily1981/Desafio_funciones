@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h3{
+    margin: 20px;
+}
+
+p{
+    margin-bottom: 15px;
+}
+
+#key{
+    width: 200px; 
+    height: 200px; 
+    background-color: white; 
+    border: 1px solid black; 
+    margin: 2px;
+}
